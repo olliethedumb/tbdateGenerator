@@ -4,8 +4,6 @@ Welcome friends to the TBDATE Random Quote Generator! Currently this is only abl
 
 Simply download tbdateGenerator.exe and tbdate.txt (the program and the quotes), ensure they are saved in the same folder, and every time you run the program you will get a random quote selected from the file. 
 
-At this point you are unable to add new lines to the file, but I'm exploring that possibility.
-
-Full source code is available to view through the .cpp file, so you don't have to worry about any nefarious malware going on.
+If you want to add new quotes to the file, you'll have to edit the source code (.cpp) to ensure the random number generated can include the new lines.
 
 Have fun!

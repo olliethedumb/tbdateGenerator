@@ -6,6 +6,6 @@ Simply download tbdateGenerator.exe and tbdate.txt (the program and the quotes),
 
 At this point you are unable to add new lines to the file, but I'm exploring that possibility.
 
-Full source code is available to view so you don't have to worry about any nefarious malware going on.
+Full source code is available to view through the .cpp file, so you don't have to worry about any nefarious malware going on.
 
 Have fun!
